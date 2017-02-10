@@ -1,0 +1,48 @@
+﻿<Window x:Class="Spewspeak.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Spewspeak"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:ViewModel="clr-namespace:Spewspeak.ViewModel"
+        mc:Ignorable="d"
+        Title="Spewspeak" Height="350" Width="525" MinHeight="350" MinWidth="525">
+    <Window.DataContext>
+        <ViewModel:MainWindowViewModel/>
+    </Window.DataContext>
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding StartupCommand}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBox x:Name="sentenceTextBox" Grid.Row="0" Margin="10,10,10,10" TextWrapping="Wrap" IsReadOnly="{Binding Path=IsConverting, UpdateSourceTrigger=PropertyChanged}" Text="{Binding Path=BoxText, UpdateSourceTrigger=PropertyChanged}" VerticalScrollBarVisibility="Auto">
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="TextChanged">
+                        <i:InvokeCommandAction Command="{Binding CalculateReadabilityScoreCommand}" CommandParameter="{Binding ElementName=sentenceTextBox, Path=Text}"/>
+                    </i:EventTrigger>
+                    <i:EventTrigger EventName="GotFocus">
+                        <i:InvokeCommandAction Command="{Binding RemovePlaceholderTextCommand}" CommandParameter="{Binding ElementName=sentenceTextBox, Path=Text}"/>
+                    </i:EventTrigger>
+                    <i:EventTrigger EventName="LostFocus">
+                        <i:InvokeCommandAction Command="{Binding AddPlaceholderTextCommand}" CommandParameter="{Binding ElementName=sentenceTextBox, Path=Text}"/>
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+            </TextBox>
+            <Grid x:Name="lowerGrid" Grid.Row="1" Margin="10, 0, 10, 10" Height="{Binding ElementName=convertButton, Path=Height}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="{Binding ElementName=convertButton, Path=Width}"/>
+                </Grid.ColumnDefinitions>
+                <Label x:Name="readingEaseLabel" Margin="0, 0, 10, 0" Content="{Binding Path=ReadingEaseText, UpdateSourceTrigger=PropertyChanged}" Foreground="{Binding Path=ReadingEaseLabelColor, UpdateSourceTrigger=PropertyChanged}" FontSize="18" Padding="0, 0, 0, 0" VerticalContentAlignment="Center"/>
+                <Button x:Name="convertButton" Grid.Column="1" Content="_Convert" Height="24" Command="{Binding Path=StartConversionCommand}" CommandParameter="{Binding ElementName=sentenceTextBox, Path=Text}" Width="100" IsEnabled="{Binding Path=IsConvertReady, UpdateSourceTrigger=PropertyChanged}"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

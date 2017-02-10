@@ -1,0 +1,113 @@
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\Spewspeak.exe.config
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\Spewspeak.exe
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\Spewspeak.pdb
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\obj\Debug\Spewspeak.csprojResolveAssemblyReference.cache
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\obj\Debug\View\MainWindow.g.cs
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\obj\Debug\App.g.cs
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\obj\Debug\Spewspeak_MarkupCompile.cache
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\obj\Debug\Spewspeak_MarkupCompile.lref
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\obj\Debug\View\MainWindow.baml
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\obj\Debug\Spewspeak.g.resources
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\obj\Debug\Spewspeak.Properties.Resources.resources
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\obj\Debug\Spewspeak.csproj.GenerateResource.Cache
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\obj\Debug\Spewspeak.exe
+c:\users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\obj\Debug\Spewspeak.pdb
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\WordRatingLibrary.dll
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\WordRatingLibrary.pdb
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\Spewspeak.exe.config
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\obj\Debug\Spewspeak.exe
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\obj\Debug\Spewspeak.pdb
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\Spewspeak.exe
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\Spewspeak.pdb
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\FolderIntegrityVerifier.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\WordRatingLibrary.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\FolderIntegrityVerifier.pdb
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\WordRatingLibrary.pdb
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\obj\Debug\Spewspeak.csprojResolveAssemblyReference.cache
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\obj\Debug\View\MainWindow.g.cs
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\obj\Debug\App.g.cs
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\obj\Debug\Spewspeak_MarkupCompile.cache
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\obj\Debug\Spewspeak_MarkupCompile.lref
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\obj\Debug\View\MainWindow.baml
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\obj\Debug\Spewspeak.g.resources
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\obj\Debug\Spewspeak.Properties.Resources.resources
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\obj\Debug\Spewspeak.csproj.GenerateResource.Cache
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\System.Windows.Interactivity.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\System.Windows.Interactivity.xml
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\FolderIntegrityVerifier.dll
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\FolderIntegrityVerifier.pdb
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\dquackenbush2019\documents\visual studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\dquackenbush2019\Documents\Visual Studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\SharpNL.dll
+C:\Users\TheQuack45\Documents\Spewspeak\Spewspeak\bin\Debug\Spewspeak.exe.config
+C:\Users\TheQuack45\Documents\Spewspeak\Spewspeak\obj\Debug\Spewspeak.exe
+C:\Users\TheQuack45\Documents\Spewspeak\Spewspeak\obj\Debug\Spewspeak.pdb
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\Spewspeak.exe.config
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\obj\Debug\Spewspeak.exe
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\obj\Debug\Spewspeak.pdb
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\obj\Debug\Spewspeak.csprojResolveAssemblyReference.cache
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\obj\Debug\View\MainWindow.g.cs
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\obj\Debug\App.g.cs
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\obj\Debug\Spewspeak_MarkupCompile.cache
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\obj\Debug\Spewspeak_MarkupCompile.lref
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\Hunspellx64.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\Hunspellx86.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\Spewspeak.exe
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\Spewspeak.pdb
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\FolderIntegrityVerifier.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\NHunspell.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\SharpNL.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\WordRatingLibrary.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\FolderIntegrityVerifier.pdb
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\WordRatingLibrary.pdb
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\NHunspell.pdb
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\obj\Debug\View\MainWindow.baml
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\obj\Debug\Spewspeak.g.resources
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\obj\Debug\Spewspeak.Properties.Resources.resources
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\obj\Debug\Spewspeak.csproj.GenerateResource.Cache
+C:\Users\TheQuack45\Documents\Spewspeak Rebuild\Spewspeak\Spewspeak\bin\Debug\SharpNL.pdb
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\Hunspellx64.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\Hunspellx86.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\NHunspell.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\SharpNL.dll
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\SharpNL.pdb
+E:\Users\DanielQ\Documents\SpewspeakStuff\Spewspeak\Spewspeak\bin\Debug\NHunspell.pdb
+C:\Users\dquackenbush2019\Documents\Visual Studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\Hunspellx64.dll
+C:\Users\dquackenbush2019\Documents\Visual Studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\Hunspellx86.dll
+C:\Users\dquackenbush2019\Documents\Visual Studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\NHunspell.dll
+C:\Users\dquackenbush2019\Documents\Visual Studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\SharpNL.pdb
+C:\Users\dquackenbush2019\Documents\Visual Studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\NHunspell.pdb
+C:\Users\dquackenbush2019\Documents\Visual Studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\WordNetClasses.dll
+C:\Users\dquackenbush2019\Documents\Visual Studio 2015\Projects\Spewspeak\Spewspeak\bin\Debug\WordNetClasses.pdb

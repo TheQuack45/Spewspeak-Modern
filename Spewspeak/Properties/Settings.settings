@@ -1,0 +1,81 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Spewspeak.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WordNetDirHash" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">21febe5be21ca2747d6649b11c697074</Value>
+    </Setting>
+    <Setting Name="WordNetRootDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\inc\WordNet\</Value>
+    </Setting>
+    <Setting Name="OpenNLPResourcesDirHash" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">93ee147c4a40fbc0a7f1e4a91fd98c18</Value>
+    </Setting>
+    <Setting Name="OpenNLPResourcesPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\inc\OpenNLPResources\</Value>
+    </Setting>
+    <Setting Name="POSTrainingFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tools\postag\AnnotatedSentences.txt</Value>
+    </Setting>
+    <Setting Name="SentDetectTrainingFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tools\sentdetect\Sentences.txt</Value>
+    </Setting>
+    <Setting Name="TrainingLanguage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">en</Value>
+    </Setting>
+    <Setting Name="ChunkerTrainingFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tools\chunker\test.txt</Value>
+    </Setting>
+    <Setting Name="TokenizerTrainingFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tools\tokenize\token.train</Value>
+    </Setting>
+    <Setting Name="NHunspellResourcesPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\inc\NHunspellResources\</Value>
+    </Setting>
+    <Setting Name="NHunspellEnglishThesaurus" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">th_en_US_new.dat</Value>
+    </Setting>
+    <Setting Name="POSTaggerModel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-pos-maxent.bin</Value>
+    </Setting>
+    <Setting Name="ChunkerModel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-chunker.bin</Value>
+    </Setting>
+    <Setting Name="SentDetectModel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-sent.bin</Value>
+    </Setting>
+    <Setting Name="TokenizerModel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-token.bin</Value>
+    </Setting>
+    <Setting Name="LemmatizerModel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-lemmatizer.bin</Value>
+    </Setting>
+    <Setting Name="LemmatizerTrainingFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-lemmatizer.dict</Value>
+    </Setting>
+    <Setting Name="NHunspellResourcesDirHash" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">5875c4996c7032a5dd027a4570548450</Value>
+    </Setting>
+    <Setting Name="NameFindDateModelPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-ner-date.bin</Value>
+    </Setting>
+    <Setting Name="NameFindLocationModelPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-ner-location.bin</Value>
+    </Setting>
+    <Setting Name="NameFindMoneyModelPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-ner-money.bin</Value>
+    </Setting>
+    <Setting Name="NameFindOrganizationModelPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-ner-organization.bin</Value>
+    </Setting>
+    <Setting Name="NameFindPersonModelPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-ner-person.bin</Value>
+    </Setting>
+    <Setting Name="NameFindTimeModelPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-ner-time.bin</Value>
+    </Setting>
+    <Setting Name="NameFindPercentageModelPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">models\en-ner-percentage.bin</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
